@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'instagram-post'
   spec.description   = 'send post publish photo to page instagram'
-  spec.homepage      = "https://www.rubygems.org"
+  spec.homepage      = "https://github.com/paymaan73/instagram-post"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
